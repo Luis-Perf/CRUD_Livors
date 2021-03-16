@@ -14,11 +14,11 @@ let idLivro= 2;
 let livros = [
     {
         id:1,
-        isbn: "978-8576573135",
-        titulo: "Neuromancer",
-        descricao: "O Céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica moderna, Neuromancer conta a história de Case, um cowboy do ciberespaço e hacker da matrix. Como punição por tentar enganar os patrões, seu sistema nervoso foi contaminado por uma toxina que o impede de entrar no mundo virtual. Agora, ele vaga pelos subúrbios de Tóquio, cometendo pequenos crimes para sobreviver, e acaba se envolvendo em uma jornada que mudará para sempre o mundo e a percepção da realidade. Evoluindo de Blade Runner e antecipando Matrix, Neuromancer é o romance de estreia de William Gibson. Esta obra distópica, publicada em 1984, antevê, de modo muito preciso, vários aspectos fundamentais da sociedade atual e de sua relação com a tecnologia. Foi o primeiro livro a ganhar a chamada “tríplice coroa da ficção científica”: os prestigiados prêmios Hugo, Nebula e Philip K. Dick.",
-        edicao: "Editora Aleph; 5ª edição",
-        autor: "Willian Gibson"
+        isbn: "9788568295045",
+        titulo: "Livro Ozob Volume 1 – Protocolo Molotov",
+        descricao: "Alô criançada, o Ozob voltou!!! O futuro chegou. E é pior do que os nossos pesadelos.",
+        edicao: "Nerdbooks",
+        autor: "Leonel Caldela; Deive Pazos"
     },
     {
         id:2,
